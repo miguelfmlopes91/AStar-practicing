@@ -17,7 +17,6 @@ inline void remove_carriage_return(std::string& line){
         line.erase(line.length() - 1);
 }
 
-
 Map::Map(const std::string& filepath){
     std::ifstream file(filepath);
 

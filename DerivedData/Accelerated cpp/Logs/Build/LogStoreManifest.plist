@@ -5,6 +5,4359 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>00CEC922-E4E0-47CF-A0AC-D9BBAEDAEEB3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>00CEC922-E4E0-47CF-A0AC-D9BBAEDAEEB3.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592173458.06201506</real>
+			<key>timeStoppedRecording</key>
+			<real>592173458.62667096</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>00CEC922-E4E0-47CF-A0AC-D9BBAEDAEEB3</string>
+		</dict>
+		<key>02521DA6-2F31-4840-A879-444EBF8FAF74</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>02521DA6-2F31-4840-A879-444EBF8FAF74.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592258426.37863302</real>
+			<key>timeStoppedRecording</key>
+			<real>592258427.27648199</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>02521DA6-2F31-4840-A879-444EBF8FAF74</string>
+		</dict>
+		<key>02F88613-EAE5-4138-A332-116E51D6BF9F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>02F88613-EAE5-4138-A332-116E51D6BF9F.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592259643.59958804</real>
+			<key>timeStoppedRecording</key>
+			<real>592259644.67258596</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>02F88613-EAE5-4138-A332-116E51D6BF9F</string>
+		</dict>
+		<key>03E98328-2620-4017-B32B-4AE2FB16562B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>03E98328-2620-4017-B32B-4AE2FB16562B.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592176281.81583405</real>
+			<key>timeStoppedRecording</key>
+			<real>592176282.65248001</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>03E98328-2620-4017-B32B-4AE2FB16562B</string>
+		</dict>
+		<key>04FB8B88-CED1-42D0-B97E-3F30DC0B2D4B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>04FB8B88-CED1-42D0-B97E-3F30DC0B2D4B.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592259382.61812997</real>
+			<key>timeStoppedRecording</key>
+			<real>592259383.81507897</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>04FB8B88-CED1-42D0-B97E-3F30DC0B2D4B</string>
+		</dict>
+		<key>0612002F-2C3E-4366-B9D9-B34346A7F614</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0612002F-2C3E-4366-B9D9-B34346A7F614.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592173517.22533703</real>
+			<key>timeStoppedRecording</key>
+			<real>592173517.96405494</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>0612002F-2C3E-4366-B9D9-B34346A7F614</string>
+		</dict>
+		<key>0747D039-BA81-4E5A-B31A-E10FF6FD23CB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0747D039-BA81-4E5A-B31A-E10FF6FD23CB.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592268690.188326</real>
+			<key>timeStoppedRecording</key>
+			<real>592268691.35336697</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>0747D039-BA81-4E5A-B31A-E10FF6FD23CB</string>
+		</dict>
+		<key>077FCAC9-AB9C-4775-89B4-5157A7F2A2A5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>077FCAC9-AB9C-4775-89B4-5157A7F2A2A5.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592174399.30637801</real>
+			<key>timeStoppedRecording</key>
+			<real>592174400.165295</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>077FCAC9-AB9C-4775-89B4-5157A7F2A2A5</string>
+		</dict>
+		<key>08DC5C62-FB9E-4434-B55E-6526A6E7751A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>08DC5C62-FB9E-4434-B55E-6526A6E7751A.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592175376.71835196</real>
+			<key>timeStoppedRecording</key>
+			<real>592175377.50986898</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>08DC5C62-FB9E-4434-B55E-6526A6E7751A</string>
+		</dict>
+		<key>0C8FE04F-1E9D-40E2-8C67-13B35E45C629</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0C8FE04F-1E9D-40E2-8C67-13B35E45C629.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592262783.52306998</real>
+			<key>timeStoppedRecording</key>
+			<real>592262784.14183903</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>0C8FE04F-1E9D-40E2-8C67-13B35E45C629</string>
+		</dict>
+		<key>0ECD184E-E290-42EB-8299-6A2CA8C29732</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0ECD184E-E290-42EB-8299-6A2CA8C29732.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592263479.486045</real>
+			<key>timeStoppedRecording</key>
+			<real>592263480.22792304</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>0ECD184E-E290-42EB-8299-6A2CA8C29732</string>
+		</dict>
+		<key>119AB957-D8F1-4838-8913-5EEC63B07F2F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>119AB957-D8F1-4838-8913-5EEC63B07F2F.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592182015.44514</real>
+			<key>timeStoppedRecording</key>
+			<real>592182016.31129396</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>119AB957-D8F1-4838-8913-5EEC63B07F2F</string>
+		</dict>
+		<key>1494F54B-119C-4748-AAC6-DA98B77F2248</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1494F54B-119C-4748-AAC6-DA98B77F2248.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>591969218.79527295</real>
+			<key>timeStoppedRecording</key>
+			<real>591969219.51506305</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>1494F54B-119C-4748-AAC6-DA98B77F2248</string>
+		</dict>
+		<key>16504AB6-1C5E-4DE6-A3DF-CF8DED50C668</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>16504AB6-1C5E-4DE6-A3DF-CF8DED50C668.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592264132.77260995</real>
+			<key>timeStoppedRecording</key>
+			<real>592264134.10382497</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>16504AB6-1C5E-4DE6-A3DF-CF8DED50C668</string>
+		</dict>
+		<key>1821AD2D-A605-4FD1-B145-3D282D4C8530</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1821AD2D-A605-4FD1-B145-3D282D4C8530.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592176357.29492497</real>
+			<key>timeStoppedRecording</key>
+			<real>592176358.06790996</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>1821AD2D-A605-4FD1-B145-3D282D4C8530</string>
+		</dict>
+		<key>19000924-10F5-421D-B06C-C200D0FC2D5B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>19000924-10F5-421D-B06C-C200D0FC2D5B.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592259153.19467402</real>
+			<key>timeStoppedRecording</key>
+			<real>592259154.35548699</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>19000924-10F5-421D-B06C-C200D0FC2D5B</string>
+		</dict>
+		<key>19507A64-CAB6-418E-A88A-8D671D3FAD71</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>19507A64-CAB6-418E-A88A-8D671D3FAD71.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592181851.05554903</real>
+			<key>timeStoppedRecording</key>
+			<real>592181851.13813102</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>19507A64-CAB6-418E-A88A-8D671D3FAD71</string>
+		</dict>
+		<key>1B9C830E-948E-4C1F-8DEC-F7E24FFE0C74</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1B9C830E-948E-4C1F-8DEC-F7E24FFE0C74.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592174568.57874298</real>
+			<key>timeStoppedRecording</key>
+			<real>592174569.38503397</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>1B9C830E-948E-4C1F-8DEC-F7E24FFE0C74</string>
+		</dict>
+		<key>1BC9A9E1-DC29-4128-B9DB-FB3F9091B96A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1BC9A9E1-DC29-4128-B9DB-FB3F9091B96A.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592182054.82800198</real>
+			<key>timeStoppedRecording</key>
+			<real>592182055.56923497</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>1BC9A9E1-DC29-4128-B9DB-FB3F9091B96A</string>
+		</dict>
+		<key>1C7D5BB0-E01D-446D-875C-DDACC6DE2336</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1C7D5BB0-E01D-446D-875C-DDACC6DE2336.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>591965800.22519004</real>
+			<key>timeStoppedRecording</key>
+			<real>591965801.00397003</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>1C7D5BB0-E01D-446D-875C-DDACC6DE2336</string>
+		</dict>
+		<key>1C8BA059-1CD5-4FBE-92E5-135ECF18A58B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1C8BA059-1CD5-4FBE-92E5-135ECF18A58B.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592181821.45036697</real>
+			<key>timeStoppedRecording</key>
+			<real>592181822.35148394</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>1C8BA059-1CD5-4FBE-92E5-135ECF18A58B</string>
+		</dict>
+		<key>1EEE428B-E78B-4088-A650-59DBF6EC23FB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1EEE428B-E78B-4088-A650-59DBF6EC23FB.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592173824.15836298</real>
+			<key>timeStoppedRecording</key>
+			<real>592173824.73020601</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>1EEE428B-E78B-4088-A650-59DBF6EC23FB</string>
+		</dict>
+		<key>210E9F0C-0043-4A71-9B15-F2495BE94134</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>210E9F0C-0043-4A71-9B15-F2495BE94134.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592176391.02872896</real>
+			<key>timeStoppedRecording</key>
+			<real>592176391.82425201</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>210E9F0C-0043-4A71-9B15-F2495BE94134</string>
+		</dict>
+		<key>22535521-B7FD-42DF-B8E1-2FDFB8A551DC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>22535521-B7FD-42DF-B8E1-2FDFB8A551DC.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>591965524.43954599</real>
+			<key>timeStoppedRecording</key>
+			<real>591965525.31395304</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>22535521-B7FD-42DF-B8E1-2FDFB8A551DC</string>
+		</dict>
+		<key>22A78E69-459F-4CB0-8528-686910881842</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>22A78E69-459F-4CB0-8528-686910881842.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592268569.73709095</real>
+			<key>timeStoppedRecording</key>
+			<real>592268570.53656006</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>22A78E69-459F-4CB0-8528-686910881842</string>
+		</dict>
+		<key>22BCDF93-151C-4387-9314-E0B8241A3E01</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>22BCDF93-151C-4387-9314-E0B8241A3E01.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592176991.74123394</real>
+			<key>timeStoppedRecording</key>
+			<real>592176992.58147395</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>22BCDF93-151C-4387-9314-E0B8241A3E01</string>
+		</dict>
+		<key>252D1FFE-17B8-41CC-BB2F-1CA69ED05AAE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>252D1FFE-17B8-41CC-BB2F-1CA69ED05AAE.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592258507.43982804</real>
+			<key>timeStoppedRecording</key>
+			<real>592258508.81921995</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>252D1FFE-17B8-41CC-BB2F-1CA69ED05AAE</string>
+		</dict>
+		<key>268E65D5-1739-4ACA-995D-E706308CF206</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>268E65D5-1739-4ACA-995D-E706308CF206.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592267484.468858</real>
+			<key>timeStoppedRecording</key>
+			<real>592267485.534971</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>268E65D5-1739-4ACA-995D-E706308CF206</string>
+		</dict>
+		<key>26F1FE0E-E978-42B3-9FD3-B11D448F7040</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>26F1FE0E-E978-42B3-9FD3-B11D448F7040.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592182555.87570298</real>
+			<key>timeStoppedRecording</key>
+			<real>592182556.88584101</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>26F1FE0E-E978-42B3-9FD3-B11D448F7040</string>
+		</dict>
+		<key>286D929A-EA2B-4AD5-ACE3-7C7BE055089F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>286D929A-EA2B-4AD5-ACE3-7C7BE055089F.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592172199.01998305</real>
+			<key>timeStoppedRecording</key>
+			<real>592172199.05613995</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>286D929A-EA2B-4AD5-ACE3-7C7BE055089F</string>
+		</dict>
+		<key>288E2A68-34AE-4DDE-AB36-B19BB9A32CF1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>288E2A68-34AE-4DDE-AB36-B19BB9A32CF1.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592250410.76954901</real>
+			<key>timeStoppedRecording</key>
+			<real>592250411.91821301</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>288E2A68-34AE-4DDE-AB36-B19BB9A32CF1</string>
+		</dict>
+		<key>28ADC1F8-2F4D-429C-8B83-B871014248CB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>28ADC1F8-2F4D-429C-8B83-B871014248CB.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>591969196.40475094</real>
+			<key>timeStoppedRecording</key>
+			<real>591969197.13162899</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>28ADC1F8-2F4D-429C-8B83-B871014248CB</string>
+		</dict>
+		<key>2CC52521-FB58-497C-BFA9-5984438034D9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2CC52521-FB58-497C-BFA9-5984438034D9.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592263463.03882504</real>
+			<key>timeStoppedRecording</key>
+			<real>592263464.36933005</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>2CC52521-FB58-497C-BFA9-5984438034D9</string>
+		</dict>
+		<key>2F4A7590-2CA8-4EE3-9310-C1F3DADA6FBE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2F4A7590-2CA8-4EE3-9310-C1F3DADA6FBE.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592175367.956967</real>
+			<key>timeStoppedRecording</key>
+			<real>592175368.512622</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>2F4A7590-2CA8-4EE3-9310-C1F3DADA6FBE</string>
+		</dict>
+		<key>30640E2A-D42F-46CE-93A7-95CBEAB28FD3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>30640E2A-D42F-46CE-93A7-95CBEAB28FD3.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592255556.808375</real>
+			<key>timeStoppedRecording</key>
+			<real>592255556.86183703</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>30640E2A-D42F-46CE-93A7-95CBEAB28FD3</string>
+		</dict>
+		<key>306B5DC9-9584-41F1-8039-80F6054D7209</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>306B5DC9-9584-41F1-8039-80F6054D7209.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592263194.77242398</real>
+			<key>timeStoppedRecording</key>
+			<real>592263195.52545202</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>306B5DC9-9584-41F1-8039-80F6054D7209</string>
+		</dict>
+		<key>315A24E6-1E93-4E88-B363-ACA714B942CA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>315A24E6-1E93-4E88-B363-ACA714B942CA.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>591966943.93236899</real>
+			<key>timeStoppedRecording</key>
+			<real>591966944.65823603</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>315A24E6-1E93-4E88-B363-ACA714B942CA</string>
+		</dict>
+		<key>324C14BD-775C-4522-82A4-A4768A592A1E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>324C14BD-775C-4522-82A4-A4768A592A1E.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592181937.22978795</real>
+			<key>timeStoppedRecording</key>
+			<real>592181937.60849595</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>324C14BD-775C-4522-82A4-A4768A592A1E</string>
+		</dict>
+		<key>32B6DD18-EB1C-40CD-9A89-9B157E0C3359</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>32B6DD18-EB1C-40CD-9A89-9B157E0C3359.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592262660.13473105</real>
+			<key>timeStoppedRecording</key>
+			<real>592262661.018507</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>32B6DD18-EB1C-40CD-9A89-9B157E0C3359</string>
+		</dict>
+		<key>332F0992-BEB4-485E-9BA3-FBF43BA8E82F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>332F0992-BEB4-485E-9BA3-FBF43BA8E82F.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592172137.36594105</real>
+			<key>timeStoppedRecording</key>
+			<real>592172138.68845701</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>332F0992-BEB4-485E-9BA3-FBF43BA8E82F</string>
+		</dict>
+		<key>33EFECEE-3CAC-43F9-979F-D343C68E37B2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>33EFECEE-3CAC-43F9-979F-D343C68E37B2.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592173365.47100794</real>
+			<key>timeStoppedRecording</key>
+			<real>592173366.23309302</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>33EFECEE-3CAC-43F9-979F-D343C68E37B2</string>
+		</dict>
+		<key>34C3FC36-0FD6-4A7C-9A7C-463DB9BF4173</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>34C3FC36-0FD6-4A7C-9A7C-463DB9BF4173.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>591966975.18501198</real>
+			<key>timeStoppedRecording</key>
+			<real>591966975.88046396</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>34C3FC36-0FD6-4A7C-9A7C-463DB9BF4173</string>
+		</dict>
+		<key>35CD2BFC-3BD1-471E-B03F-A0EDFF592184</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>35CD2BFC-3BD1-471E-B03F-A0EDFF592184.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592177020.10682297</real>
+			<key>timeStoppedRecording</key>
+			<real>592177020.91420603</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>35CD2BFC-3BD1-471E-B03F-A0EDFF592184</string>
+		</dict>
+		<key>36B7AEE3-7DB7-497A-96F9-33A224030FD0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>36B7AEE3-7DB7-497A-96F9-33A224030FD0.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592174604.28930998</real>
+			<key>timeStoppedRecording</key>
+			<real>592174605.07436502</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>36B7AEE3-7DB7-497A-96F9-33A224030FD0</string>
+		</dict>
+		<key>382B4303-B3AE-4F60-93F1-C831D57D3622</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>382B4303-B3AE-4F60-93F1-C831D57D3622.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592267057.44454205</real>
+			<key>timeStoppedRecording</key>
+			<real>592267059.58489096</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>382B4303-B3AE-4F60-93F1-C831D57D3622</string>
+		</dict>
+		<key>3AF45929-1750-4FD3-BB7E-32AEAF0F90C5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3AF45929-1750-4FD3-BB7E-32AEAF0F90C5.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>591965607.74724495</real>
+			<key>timeStoppedRecording</key>
+			<real>591965607.78461599</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>3AF45929-1750-4FD3-BB7E-32AEAF0F90C5</string>
+		</dict>
+		<key>3B248C57-5BE0-4945-B42B-8BDEEBAE15BF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3B248C57-5BE0-4945-B42B-8BDEEBAE15BF.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592259566.73831701</real>
+			<key>timeStoppedRecording</key>
+			<real>592259566.79250002</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>3B248C57-5BE0-4945-B42B-8BDEEBAE15BF</string>
+		</dict>
+		<key>3C098BBF-3B3D-4E6E-BDF5-9FC11B07D2CE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3C098BBF-3B3D-4E6E-BDF5-9FC11B07D2CE.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592263393.83873701</real>
+			<key>timeStoppedRecording</key>
+			<real>592263394.61635101</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>3C098BBF-3B3D-4E6E-BDF5-9FC11B07D2CE</string>
+		</dict>
+		<key>3DBC76B6-F28D-4C6C-853F-59B25C5DB7BB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3DBC76B6-F28D-4C6C-853F-59B25C5DB7BB.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592261039.11692905</real>
+			<key>timeStoppedRecording</key>
+			<real>592261041.0201</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>3DBC76B6-F28D-4C6C-853F-59B25C5DB7BB</string>
+		</dict>
+		<key>3F8BF766-E103-4628-809C-C53DAB90061F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3F8BF766-E103-4628-809C-C53DAB90061F.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592173812.213431</real>
+			<key>timeStoppedRecording</key>
+			<real>592173812.99122298</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>3F8BF766-E103-4628-809C-C53DAB90061F</string>
+		</dict>
+		<key>4258027E-0772-43D0-A3A5-A12C2508FA5F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4258027E-0772-43D0-A3A5-A12C2508FA5F.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592182031.83837104</real>
+			<key>timeStoppedRecording</key>
+			<real>592182032.47803104</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>4258027E-0772-43D0-A3A5-A12C2508FA5F</string>
+		</dict>
+		<key>42E9313B-C377-443B-8CD4-64C4F9C1056B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>42E9313B-C377-443B-8CD4-64C4F9C1056B.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592258556.73534501</real>
+			<key>timeStoppedRecording</key>
+			<real>592258557.83602202</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>42E9313B-C377-443B-8CD4-64C4F9C1056B</string>
+		</dict>
+		<key>43A5C89E-531C-4EC0-BB51-8337127ADA94</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>43A5C89E-531C-4EC0-BB51-8337127ADA94.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592259425.62083101</real>
+			<key>timeStoppedRecording</key>
+			<real>592259425.68418097</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>43A5C89E-531C-4EC0-BB51-8337127ADA94</string>
+		</dict>
+		<key>43EBC1D2-5FB6-4B3E-ACDA-F4FE3BDC013A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>43EBC1D2-5FB6-4B3E-ACDA-F4FE3BDC013A.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592269099.34664404</real>
+			<key>timeStoppedRecording</key>
+			<real>592269100.03644097</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>43EBC1D2-5FB6-4B3E-ACDA-F4FE3BDC013A</string>
+		</dict>
+		<key>494F010F-3891-4F61-82A0-C08865F105B0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>494F010F-3891-4F61-82A0-C08865F105B0.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592258501.91930497</real>
+			<key>timeStoppedRecording</key>
+			<real>592258502.78932095</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>494F010F-3891-4F61-82A0-C08865F105B0</string>
+		</dict>
+		<key>4B34C631-CF45-4118-92AF-7E65044F98C0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4B34C631-CF45-4118-92AF-7E65044F98C0.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592263601.89296603</real>
+			<key>timeStoppedRecording</key>
+			<real>592263603.27149904</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>4B34C631-CF45-4118-92AF-7E65044F98C0</string>
+		</dict>
+		<key>4C00CA90-8E11-4EEA-9733-19F4D6192B46</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4C00CA90-8E11-4EEA-9733-19F4D6192B46.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592268707.28529298</real>
+			<key>timeStoppedRecording</key>
+			<real>592268707.33873403</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>4C00CA90-8E11-4EEA-9733-19F4D6192B46</string>
+		</dict>
+		<key>4D902F90-2E54-48A7-A63B-3B0A0925A215</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4D902F90-2E54-48A7-A63B-3B0A0925A215.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592181920.12635696</real>
+			<key>timeStoppedRecording</key>
+			<real>592181920.49602306</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>4D902F90-2E54-48A7-A63B-3B0A0925A215</string>
+		</dict>
+		<key>54254525-756F-416B-8FF4-DF67A3F7B32B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>54254525-756F-416B-8FF4-DF67A3F7B32B.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592182048.89989603</real>
+			<key>timeStoppedRecording</key>
+			<real>592182049.53318906</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>54254525-756F-416B-8FF4-DF67A3F7B32B</string>
+		</dict>
+		<key>57E23DF1-FD2B-4B46-AC14-03586D9A5C13</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>57E23DF1-FD2B-4B46-AC14-03586D9A5C13.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592251471.94064403</real>
+			<key>timeStoppedRecording</key>
+			<real>592251473.03455901</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>57E23DF1-FD2B-4B46-AC14-03586D9A5C13</string>
+		</dict>
+		<key>5A6C39BB-B0E6-4F30-8ADD-C9B4FFEE5086</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5A6C39BB-B0E6-4F30-8ADD-C9B4FFEE5086.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592265434.49758601</real>
+			<key>timeStoppedRecording</key>
+			<real>592265436.44126999</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>5A6C39BB-B0E6-4F30-8ADD-C9B4FFEE5086</string>
+		</dict>
+		<key>5A9D9B0A-CDD7-4A5A-B9B7-1085EFC5565F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5A9D9B0A-CDD7-4A5A-B9B7-1085EFC5565F.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592173671.272241</real>
+			<key>timeStoppedRecording</key>
+			<real>592173672.03697205</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>5A9D9B0A-CDD7-4A5A-B9B7-1085EFC5565F</string>
+		</dict>
+		<key>5E9C431B-5193-4557-85EC-5F6D93C0E68E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5E9C431B-5193-4557-85EC-5F6D93C0E68E.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592175185.49477303</real>
+			<key>timeStoppedRecording</key>
+			<real>592175186.29591703</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>5E9C431B-5193-4557-85EC-5F6D93C0E68E</string>
+		</dict>
+		<key>6105698E-E039-4342-A59D-FA54A7828618</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6105698E-E039-4342-A59D-FA54A7828618.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592176967.59090602</real>
+			<key>timeStoppedRecording</key>
+			<real>592176968.37604594</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>6105698E-E039-4342-A59D-FA54A7828618</string>
+		</dict>
+		<key>61FA1779-AC68-4A8E-B41F-1154FA45E89D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>61FA1779-AC68-4A8E-B41F-1154FA45E89D.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592261275.57154405</real>
+			<key>timeStoppedRecording</key>
+			<real>592261276.19029605</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>61FA1779-AC68-4A8E-B41F-1154FA45E89D</string>
+		</dict>
+		<key>62994B20-5B52-447A-9ADA-47BF302A68C6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>62994B20-5B52-447A-9ADA-47BF302A68C6.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592268665.44513905</real>
+			<key>timeStoppedRecording</key>
+			<real>592268666.59947801</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>62994B20-5B52-447A-9ADA-47BF302A68C6</string>
+		</dict>
+		<key>63D23E96-95AA-4E6E-ACA8-5966C4EFBDC2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>63D23E96-95AA-4E6E-ACA8-5966C4EFBDC2.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592174158.35745299</real>
+			<key>timeStoppedRecording</key>
+			<real>592174159.20695698</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>63D23E96-95AA-4E6E-ACA8-5966C4EFBDC2</string>
+		</dict>
+		<key>66BBC6BF-B6A9-4F3B-B99A-D0FB3F747A25</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>66BBC6BF-B6A9-4F3B-B99A-D0FB3F747A25.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592173697.36071897</real>
+			<key>timeStoppedRecording</key>
+			<real>592173697.46505404</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>66BBC6BF-B6A9-4F3B-B99A-D0FB3F747A25</string>
+		</dict>
+		<key>6E6DD9F8-C807-4610-93A6-0D59D91682D0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6E6DD9F8-C807-4610-93A6-0D59D91682D0.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592255013.70559001</real>
+			<key>timeStoppedRecording</key>
+			<real>592255014.89035106</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>6E6DD9F8-C807-4610-93A6-0D59D91682D0</string>
+		</dict>
+		<key>6E884F7E-456E-4AAE-A5BE-1C6D92C84562</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6E884F7E-456E-4AAE-A5BE-1C6D92C84562.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592173950.32449698</real>
+			<key>timeStoppedRecording</key>
+			<real>592173951.15505302</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>6E884F7E-456E-4AAE-A5BE-1C6D92C84562</string>
+		</dict>
+		<key>6F08BA19-E94B-46C4-9473-666137F577BF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6F08BA19-E94B-46C4-9473-666137F577BF.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592259556.12074196</real>
+			<key>timeStoppedRecording</key>
+			<real>592259557.22468197</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>6F08BA19-E94B-46C4-9473-666137F577BF</string>
+		</dict>
+		<key>7056067D-3DD8-4B6E-B0ED-75231E164720</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7056067D-3DD8-4B6E-B0ED-75231E164720.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592259093.487939</real>
+			<key>timeStoppedRecording</key>
+			<real>592259094.71519995</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>7056067D-3DD8-4B6E-B0ED-75231E164720</string>
+		</dict>
+		<key>71138279-F4C4-42C5-B0EF-B5F39D22FFE1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>71138279-F4C4-42C5-B0EF-B5F39D22FFE1.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592265154.82779098</real>
+			<key>timeStoppedRecording</key>
+			<real>592265156.36576605</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>71138279-F4C4-42C5-B0EF-B5F39D22FFE1</string>
+		</dict>
+		<key>77B443EF-423E-4789-B390-C4219E0B9488</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>77B443EF-423E-4789-B390-C4219E0B9488.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592263630.99085701</real>
+			<key>timeStoppedRecording</key>
+			<real>592263632.04853594</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>77B443EF-423E-4789-B390-C4219E0B9488</string>
+		</dict>
+		<key>7C6147B1-739F-4A60-AC36-F044F8C10DEB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7C6147B1-739F-4A60-AC36-F044F8C10DEB.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592261122.78006196</real>
+			<key>timeStoppedRecording</key>
+			<real>592261123.80814397</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>7C6147B1-739F-4A60-AC36-F044F8C10DEB</string>
+		</dict>
+		<key>7D46A353-290D-4D7E-9E8B-32A5F40FBB46</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7D46A353-290D-4D7E-9E8B-32A5F40FBB46.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592173827.028108</real>
+			<key>timeStoppedRecording</key>
+			<real>592173827.83928299</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>7D46A353-290D-4D7E-9E8B-32A5F40FBB46</string>
+		</dict>
+		<key>7EBB7FB1-4979-4583-8BE9-A1DE4B77B681</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7EBB7FB1-4979-4583-8BE9-A1DE4B77B681.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>591965622.02074897</real>
+			<key>timeStoppedRecording</key>
+			<real>591965622.05185103</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>7EBB7FB1-4979-4583-8BE9-A1DE4B77B681</string>
+		</dict>
+		<key>7FB94BAF-516D-4A86-AA9D-494630735AE9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7FB94BAF-516D-4A86-AA9D-494630735AE9.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592267392.57319999</real>
+			<key>timeStoppedRecording</key>
+			<real>592267394.00714004</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>7FB94BAF-516D-4A86-AA9D-494630735AE9</string>
+		</dict>
+		<key>844C891D-5717-4549-ABC1-FC49A18B8F7A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>844C891D-5717-4549-ABC1-FC49A18B8F7A.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592253930.52295101</real>
+			<key>timeStoppedRecording</key>
+			<real>592253932.21330798</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>844C891D-5717-4549-ABC1-FC49A18B8F7A</string>
+		</dict>
+		<key>8501FD13-1DDA-4192-9689-CE67A6CB9E3F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8501FD13-1DDA-4192-9689-CE67A6CB9E3F.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592177325.30799198</real>
+			<key>timeStoppedRecording</key>
+			<real>592177326.10235095</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>8501FD13-1DDA-4192-9689-CE67A6CB9E3F</string>
+		</dict>
+		<key>8655A67E-6608-4269-9D01-1E8F53AB6354</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8655A67E-6608-4269-9D01-1E8F53AB6354.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592262814.74745905</real>
+			<key>timeStoppedRecording</key>
+			<real>592262815.411201</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>8655A67E-6608-4269-9D01-1E8F53AB6354</string>
+		</dict>
+		<key>86E7A50A-ED10-44F5-9345-9EDF3F9CD1FE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>86E7A50A-ED10-44F5-9345-9EDF3F9CD1FE.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592264653.50329101</real>
+			<key>timeStoppedRecording</key>
+			<real>592264654.88418198</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>86E7A50A-ED10-44F5-9345-9EDF3F9CD1FE</string>
+		</dict>
+		<key>8CF81981-9963-4131-92BA-0458BBF8A081</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8CF81981-9963-4131-92BA-0458BBF8A081.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592174114.98558903</real>
+			<key>timeStoppedRecording</key>
+			<real>592174115.90357804</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>8CF81981-9963-4131-92BA-0458BBF8A081</string>
+		</dict>
+		<key>90C4FC90-8213-4023-9DA9-AD2AFE10090F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>90C4FC90-8213-4023-9DA9-AD2AFE10090F.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592254934.80680501</real>
+			<key>timeStoppedRecording</key>
+			<real>592254935.92787302</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>90C4FC90-8213-4023-9DA9-AD2AFE10090F</string>
+		</dict>
+		<key>91C78C3F-8063-442F-8771-0CE91F13BF70</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>91C78C3F-8063-442F-8771-0CE91F13BF70.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592182036.91764104</real>
+			<key>timeStoppedRecording</key>
+			<real>592182037.71054697</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>91C78C3F-8063-442F-8771-0CE91F13BF70</string>
+		</dict>
+		<key>97F9C563-76CA-4E5C-926F-05B7CAC4628E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>97F9C563-76CA-4E5C-926F-05B7CAC4628E.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592173509.19332397</real>
+			<key>timeStoppedRecording</key>
+			<real>592173509.73441005</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>97F9C563-76CA-4E5C-926F-05B7CAC4628E</string>
+		</dict>
+		<key>982F67BC-CB0C-4D0B-B951-B54D9ADA13DF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>982F67BC-CB0C-4D0B-B951-B54D9ADA13DF.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592183691.07036102</real>
+			<key>timeStoppedRecording</key>
+			<real>592183691.97367501</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>982F67BC-CB0C-4D0B-B951-B54D9ADA13DF</string>
+		</dict>
+		<key>9A31A484-C661-4DE9-BE3F-ADA6694526F3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9A31A484-C661-4DE9-BE3F-ADA6694526F3.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592166146.079108</real>
+			<key>timeStoppedRecording</key>
+			<real>592166147.21529496</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>9A31A484-C661-4DE9-BE3F-ADA6694526F3</string>
+		</dict>
+		<key>A0B7CB77-48BF-4684-89EF-FDA665DD73C6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A0B7CB77-48BF-4684-89EF-FDA665DD73C6.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592268455.10408795</real>
+			<key>timeStoppedRecording</key>
+			<real>592268456.33697903</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>A0B7CB77-48BF-4684-89EF-FDA665DD73C6</string>
+		</dict>
+		<key>A20E39A6-3F6C-450A-98D9-1674D6F1591B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A20E39A6-3F6C-450A-98D9-1674D6F1591B.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592250431.16962302</real>
+			<key>timeStoppedRecording</key>
+			<real>592250431.20952702</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>A20E39A6-3F6C-450A-98D9-1674D6F1591B</string>
+		</dict>
+		<key>A3BFFB4C-AE04-475D-B6BB-BF1EAC3F3A9C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A3BFFB4C-AE04-475D-B6BB-BF1EAC3F3A9C.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592260729.85390103</real>
+			<key>timeStoppedRecording</key>
+			<real>592260730.96633995</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>A3BFFB4C-AE04-475D-B6BB-BF1EAC3F3A9C</string>
+		</dict>
+		<key>A4ED9989-2DCA-44AA-AF13-0476055ECF90</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A4ED9989-2DCA-44AA-AF13-0476055ECF90.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592263126.91863</real>
+			<key>timeStoppedRecording</key>
+			<real>592263127.72836804</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>A4ED9989-2DCA-44AA-AF13-0476055ECF90</string>
+		</dict>
+		<key>A5684555-FB03-4BE8-B458-EDFE8FD45414</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A5684555-FB03-4BE8-B458-EDFE8FD45414.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592176302.20001996</real>
+			<key>timeStoppedRecording</key>
+			<real>592176302.23577201</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>A5684555-FB03-4BE8-B458-EDFE8FD45414</string>
+		</dict>
+		<key>AA299778-7680-4F88-AA70-D89BD2AE9FFC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AA299778-7680-4F88-AA70-D89BD2AE9FFC.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592264570.61545396</real>
+			<key>timeStoppedRecording</key>
+			<real>592264572.03872502</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>AA299778-7680-4F88-AA70-D89BD2AE9FFC</string>
+		</dict>
+		<key>AAE84841-9500-45B8-B2DA-2A5EC1A34F0B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AAE84841-9500-45B8-B2DA-2A5EC1A34F0B.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592254149.12127399</real>
+			<key>timeStoppedRecording</key>
+			<real>592254150.24658</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>AAE84841-9500-45B8-B2DA-2A5EC1A34F0B</string>
+		</dict>
+		<key>AE3CB4F1-F6AD-4032-A55B-AB81948A5F34</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AE3CB4F1-F6AD-4032-A55B-AB81948A5F34.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592260618.34636903</real>
+			<key>timeStoppedRecording</key>
+			<real>592260618.41335404</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>AE3CB4F1-F6AD-4032-A55B-AB81948A5F34</string>
+		</dict>
+		<key>B0BB8AE4-1B89-4BAC-B2FA-C02C71B7240A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B0BB8AE4-1B89-4BAC-B2FA-C02C71B7240A.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592182845.59313095</real>
+			<key>timeStoppedRecording</key>
+			<real>592182846.34659004</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>B0BB8AE4-1B89-4BAC-B2FA-C02C71B7240A</string>
+		</dict>
+		<key>B7D8B044-5FD2-4017-81EA-9E245FEAD0F6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B7D8B044-5FD2-4017-81EA-9E245FEAD0F6.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592269111.92152596</real>
+			<key>timeStoppedRecording</key>
+			<real>592269113.082986</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>B7D8B044-5FD2-4017-81EA-9E245FEAD0F6</string>
+		</dict>
+		<key>BCBB1382-6A91-4CBF-82EE-08A7D44447E9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BCBB1382-6A91-4CBF-82EE-08A7D44447E9.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592173383.56906295</real>
+			<key>timeStoppedRecording</key>
+			<real>592173383.60859096</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>BCBB1382-6A91-4CBF-82EE-08A7D44447E9</string>
+		</dict>
+		<key>BE6FADC1-AC61-4596-A48C-688B37737929</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BE6FADC1-AC61-4596-A48C-688B37737929.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592175897.34638596</real>
+			<key>timeStoppedRecording</key>
+			<real>592175898.162534</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>BE6FADC1-AC61-4596-A48C-688B37737929</string>
+		</dict>
+		<key>BF74740E-3C9F-4CB9-AF0B-AB486DEC3282</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BF74740E-3C9F-4CB9-AF0B-AB486DEC3282.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592176945.12654603</real>
+			<key>timeStoppedRecording</key>
+			<real>592176945.68855095</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>BF74740E-3C9F-4CB9-AF0B-AB486DEC3282</string>
+		</dict>
+		<key>C1414E57-0DED-4D88-9511-D8EC10288392</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C1414E57-0DED-4D88-9511-D8EC10288392.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592175064.87548304</real>
+			<key>timeStoppedRecording</key>
+			<real>592175065.66660202</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>C1414E57-0DED-4D88-9511-D8EC10288392</string>
+		</dict>
+		<key>C5DE5CDD-687E-4357-8A70-E55586E94437</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C5DE5CDD-687E-4357-8A70-E55586E94437.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592269135.04240096</real>
+			<key>timeStoppedRecording</key>
+			<real>592269136.19610906</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>C5DE5CDD-687E-4357-8A70-E55586E94437</string>
+		</dict>
+		<key>CB8F9018-3AF8-42EB-8322-257704A64A95</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CB8F9018-3AF8-42EB-8322-257704A64A95.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592259194.52165198</real>
+			<key>timeStoppedRecording</key>
+			<real>592259195.77200401</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>CB8F9018-3AF8-42EB-8322-257704A64A95</string>
+		</dict>
+		<key>CBB1E44F-677D-484B-8CB8-49CF2CAE7A1B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CBB1E44F-677D-484B-8CB8-49CF2CAE7A1B.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592181969.56603801</real>
+			<key>timeStoppedRecording</key>
+			<real>592181970.19006503</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>CBB1E44F-677D-484B-8CB8-49CF2CAE7A1B</string>
+		</dict>
+		<key>CBC41F6F-F6CF-4CE1-B374-9C31138725AF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CBC41F6F-F6CF-4CE1-B374-9C31138725AF.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592254242.04170895</real>
+			<key>timeStoppedRecording</key>
+			<real>592254243.14384401</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>CBC41F6F-F6CF-4CE1-B374-9C31138725AF</string>
+		</dict>
+		<key>CCA433E9-F339-4948-A7FC-240F3D7F9644</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CCA433E9-F339-4948-A7FC-240F3D7F9644.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592249075.81549501</real>
+			<key>timeStoppedRecording</key>
+			<real>592249076.68322802</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>CCA433E9-F339-4948-A7FC-240F3D7F9644</string>
+		</dict>
+		<key>CD916219-A0DB-4B3E-92F1-51FCE9872864</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CD916219-A0DB-4B3E-92F1-51FCE9872864.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592254354.28437495</real>
+			<key>timeStoppedRecording</key>
+			<real>592254355.39027405</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>CD916219-A0DB-4B3E-92F1-51FCE9872864</string>
+		</dict>
+		<key>CE506056-B5BC-4C2B-92A5-13F5A3173EA7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CE506056-B5BC-4C2B-92A5-13F5A3173EA7.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592267919.96985602</real>
+			<key>timeStoppedRecording</key>
+			<real>592267921.30950606</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>CE506056-B5BC-4C2B-92A5-13F5A3173EA7</string>
+		</dict>
+		<key>CE820DC4-3D5A-46EA-9FB8-2B3042907DA5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CE820DC4-3D5A-46EA-9FB8-2B3042907DA5.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592267457.13023806</real>
+			<key>timeStoppedRecording</key>
+			<real>592267458.29108298</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>CE820DC4-3D5A-46EA-9FB8-2B3042907DA5</string>
+		</dict>
+		<key>CF400E24-3C56-4755-93C3-998A77568115</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CF400E24-3C56-4755-93C3-998A77568115.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592254120.77911103</real>
+			<key>timeStoppedRecording</key>
+			<real>592254120.835428</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>CF400E24-3C56-4755-93C3-998A77568115</string>
+		</dict>
+		<key>D13FE46C-3957-4759-9A83-5DD698A0C704</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D13FE46C-3957-4759-9A83-5DD698A0C704.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592265059.327564</real>
+			<key>timeStoppedRecording</key>
+			<real>592265060.85527205</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>D13FE46C-3957-4759-9A83-5DD698A0C704</string>
+		</dict>
+		<key>D1681604-E9B3-4842-8F31-78A890659D7D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D1681604-E9B3-4842-8F31-78A890659D7D.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>591388346.737445</real>
+			<key>timeStoppedRecording</key>
+			<real>591388347.46990204</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>D1681604-E9B3-4842-8F31-78A890659D7D</string>
+		</dict>
+		<key>D2019AF6-0A1E-41DB-BEC4-D7E5CB96DCD5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D2019AF6-0A1E-41DB-BEC4-D7E5CB96DCD5.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592174442.90929699</real>
+			<key>timeStoppedRecording</key>
+			<real>592174443.68865097</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>D2019AF6-0A1E-41DB-BEC4-D7E5CB96DCD5</string>
+		</dict>
+		<key>D474DBCF-435D-4458-8298-63964F302D0F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D474DBCF-435D-4458-8298-63964F302D0F.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592172146.68268204</real>
+			<key>timeStoppedRecording</key>
+			<real>592172146.72084796</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>D474DBCF-435D-4458-8298-63964F302D0F</string>
+		</dict>
+		<key>D4BE39FB-BE42-4BD9-9265-B2E734DF54AE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D4BE39FB-BE42-4BD9-9265-B2E734DF54AE.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592174834.92603898</real>
+			<key>timeStoppedRecording</key>
+			<real>592174835.69649005</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>D4BE39FB-BE42-4BD9-9265-B2E734DF54AE</string>
+		</dict>
+		<key>D64CD1B1-BC3C-4D70-A5A0-D0349FA7B6D6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D64CD1B1-BC3C-4D70-A5A0-D0349FA7B6D6.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592269086.98808599</real>
+			<key>timeStoppedRecording</key>
+			<real>592269087.72981799</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>D64CD1B1-BC3C-4D70-A5A0-D0349FA7B6D6</string>
+		</dict>
+		<key>D7B7CEF2-3633-42B3-AB2A-45A5570341D1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D7B7CEF2-3633-42B3-AB2A-45A5570341D1.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592267185.12047899</real>
+			<key>timeStoppedRecording</key>
+			<real>592267186.90989101</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>D7B7CEF2-3633-42B3-AB2A-45A5570341D1</string>
+		</dict>
+		<key>DC87D2CC-6947-4BAF-9716-8A404F99385D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DC87D2CC-6947-4BAF-9716-8A404F99385D.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>591965829.55438602</real>
+			<key>timeStoppedRecording</key>
+			<real>591965830.25349402</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>DC87D2CC-6947-4BAF-9716-8A404F99385D</string>
+		</dict>
+		<key>DEDADEFC-B824-4ECD-B22E-CDA883B012B5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DEDADEFC-B824-4ECD-B22E-CDA883B012B5.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592254559.94188499</real>
+			<key>timeStoppedRecording</key>
+			<real>592254560.95946896</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>DEDADEFC-B824-4ECD-B22E-CDA883B012B5</string>
+		</dict>
+		<key>DF2823E8-0D77-4C72-A30A-EA3EDD514723</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DF2823E8-0D77-4C72-A30A-EA3EDD514723.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592182062.30004203</real>
+			<key>timeStoppedRecording</key>
+			<real>592182063.24175894</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>DF2823E8-0D77-4C72-A30A-EA3EDD514723</string>
+		</dict>
+		<key>E32FF5C1-196D-4A8A-8A57-1A0F8F41F8D4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E32FF5C1-196D-4A8A-8A57-1A0F8F41F8D4.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592249195.373523</real>
+			<key>timeStoppedRecording</key>
+			<real>592249196.54247499</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>E32FF5C1-196D-4A8A-8A57-1A0F8F41F8D4</string>
+		</dict>
+		<key>E3ABEB9B-8588-4AD6-8E89-3CA0115DC993</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E3ABEB9B-8588-4AD6-8E89-3CA0115DC993.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592263646.97391999</real>
+			<key>timeStoppedRecording</key>
+			<real>592263648.37553596</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>E3ABEB9B-8588-4AD6-8E89-3CA0115DC993</string>
+		</dict>
+		<key>EC921808-2E73-486E-83C8-7F3939CE58C0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EC921808-2E73-486E-83C8-7F3939CE58C0.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592264068.17102003</real>
+			<key>timeStoppedRecording</key>
+			<real>592264069.36625898</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>EC921808-2E73-486E-83C8-7F3939CE58C0</string>
+		</dict>
+		<key>EC964F22-2FEA-476C-AC04-F81258F35A50</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EC964F22-2FEA-476C-AC04-F81258F35A50.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592173235.75082505</real>
+			<key>timeStoppedRecording</key>
+			<real>592173236.50012803</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>EC964F22-2FEA-476C-AC04-F81258F35A50</string>
+		</dict>
+		<key>EDB433F8-BA3E-4033-A5D3-C6F1609F490B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EDB433F8-BA3E-4033-A5D3-C6F1609F490B.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>591969179.93304706</real>
+			<key>timeStoppedRecording</key>
+			<real>591969180.68796396</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>EDB433F8-BA3E-4033-A5D3-C6F1609F490B</string>
+		</dict>
+		<key>EE43B637-123A-4418-B699-A11E605B3D4C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EE43B637-123A-4418-B699-A11E605B3D4C.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592254492.65465999</real>
+			<key>timeStoppedRecording</key>
+			<real>592254492.70831001</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>EE43B637-123A-4418-B699-A11E605B3D4C</string>
+		</dict>
+		<key>F190D2F0-54D5-4DE4-B49E-310B0D13014A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F190D2F0-54D5-4DE4-B49E-310B0D13014A.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592268755.17760003</real>
+			<key>timeStoppedRecording</key>
+			<real>592268755.21573198</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>F190D2F0-54D5-4DE4-B49E-310B0D13014A</string>
+		</dict>
+		<key>F2ED1EA8-AD48-427F-AE49-E275F34B183A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F2ED1EA8-AD48-427F-AE49-E275F34B183A.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>591965294.43221903</real>
+			<key>timeStoppedRecording</key>
+			<real>591965295.1085</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>F2ED1EA8-AD48-427F-AE49-E275F34B183A</string>
+		</dict>
+		<key>F53D7B89-AC2B-4EBF-8E32-DF9C02BDFBE4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F53D7B89-AC2B-4EBF-8E32-DF9C02BDFBE4.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592174985.439013</real>
+			<key>timeStoppedRecording</key>
+			<real>592174986.22645199</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>F53D7B89-AC2B-4EBF-8E32-DF9C02BDFBE4</string>
+		</dict>
+		<key>F6277506-49DA-4122-87F2-49A66E65A5EB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F6277506-49DA-4122-87F2-49A66E65A5EB.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592262872.41604304</real>
+			<key>timeStoppedRecording</key>
+			<real>592262873.76454198</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>F6277506-49DA-4122-87F2-49A66E65A5EB</string>
+		</dict>
+		<key>F64DE8CD-6630-4D2D-ACA6-A4962F2EC538</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F64DE8CD-6630-4D2D-ACA6-A4962F2EC538.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592268606.17618096</real>
+			<key>timeStoppedRecording</key>
+			<real>592268607.41099405</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>F64DE8CD-6630-4D2D-ACA6-A4962F2EC538</string>
+		</dict>
+		<key>F9D0234D-BE42-4162-A0E6-59D09176E021</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F9D0234D-BE42-4162-A0E6-59D09176E021.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592263117.18188298</real>
+			<key>timeStoppedRecording</key>
+			<real>592263118.60989702</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>F9D0234D-BE42-4162-A0E6-59D09176E021</string>
+		</dict>
+		<key>FC125432-0574-4C0B-9FB3-B16309AE1457</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FC125432-0574-4C0B-9FB3-B16309AE1457.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592262774.50802398</real>
+			<key>timeStoppedRecording</key>
+			<real>592262775.20785999</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>FC125432-0574-4C0B-9FB3-B16309AE1457</string>
+		</dict>
+		<key>FDB40D7E-B176-4006-AF56-8D98637271C6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FDB40D7E-B176-4006-AF56-8D98637271C6.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592168739.08096099</real>
+			<key>timeStoppedRecording</key>
+			<real>592168740.49799001</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>FDB40D7E-B176-4006-AF56-8D98637271C6</string>
+		</dict>
+		<key>FF0E3D8C-A7C7-4200-AC82-E942F90CB29E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FF0E3D8C-A7C7-4200-AC82-E942F90CB29E.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592263616.75674701</real>
+			<key>timeStoppedRecording</key>
+			<real>592263616.98405802</real>
+			<key>title</key>
+			<string>Build Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>FF0E3D8C-A7C7-4200-AC82-E942F90CB29E</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

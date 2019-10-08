@@ -16,18 +16,26 @@
 #include <tuple>
 #include <algorithm>
 #include <cstdlib>
+#include <math.h>
+
 
 #include "map.hpp"
 
 
 constexpr int ORTHOGONAL_COST = 14;
 constexpr int DIAGONAL_COST = 10;
+constexpr double epsilon = 0.001f;
 
 typedef std::vector<std::vector<char>> Grid;
 typedef std::pair<Node, double> pair;
 
+inline double Tolerance(double val){
+    if( val < epsilon ){
+    }
+    return 0;
+}
 
-namespace std {//TODO CHECK IF NEEDED
+namespace std {
     /* implement hash function so we can put Node into an unordered_map */
     template <> struct hash<Node> {
         typedef Node argument_type;
@@ -39,8 +47,8 @@ namespace std {//TODO CHECK IF NEEDED
 }
 
 std::array<Node, 8> DIRS {
-    Node{1, 0}, Node{1, -1}, Node{0, -1}, Node{-1, -1},
-    Node{-1, 0}, Node{-1, 1}, Node{0, 1}, Node{1, 1}
+    Node(1, 0), Node(1, -1), Node(0, -1), Node(-1, -1),
+    Node(-1, 0), Node(-1, 1), Node(0, 1), Node(1, 1),
 };
 
 inline std::vector<Node> GetNeighbours(Node id, const Grid& grid ){
@@ -48,17 +56,16 @@ inline std::vector<Node> GetNeighbours(Node id, const Grid& grid ){
     for (Node dir : DIRS) {
         Node next{id.x + dir.x, id.y + dir.y};
         if (next.InBounds() && ( grid[next.x][next.y] != '*')){ //check if it's not water
-            //std::cout<<"next:" <<next <<std::endl;
             results.push_back(next);
-        }//TODO::do else and print for water to validare
+        }
     }
     return results;
 }
 
 inline double distance( Node source, Node target)
 {
-    int dx = std::abs(source.x - target.x);
-    int dy = std::abs(source.y - target.y) / 2;
+    double dx = std::abs(source.x - target.x);
+    double dy = std::abs(source.y - target.y);
     
     return ORTHOGONAL_COST * (dx + dy) + (DIAGONAL_COST - 2 * ORTHOGONAL_COST) * std::min(dx, dy);
 }
@@ -89,7 +96,7 @@ inline double GetCost(char val){
     return value;
 }
 
-void a_star_search(Grid graph,
+bool a_star_search(Grid graph,
                    Node start,
                    Node goal,
                    std::unordered_map<Node, Node>& came_from,
@@ -97,7 +104,6 @@ void a_star_search(Grid graph,
                    double>& cost_so_far){
     
     std::priority_queue<Node> openList;
-
     openList.emplace(start);
     
     came_from[start] = start;
@@ -106,25 +112,19 @@ void a_star_search(Grid graph,
     while (!openList.empty()) {
         Node current = openList.top();
         openList.pop();
-        std::cout << "current :"<< current << std::endl;
         
         if (current == goal) {
-            break;
+            return true;
         }
         auto neighbours = GetNeighbours(current, graph);
         for (auto next : neighbours) {
-            std::cout << "next :"<< next << std::endl;
-            std::cout << "next cost :"<< GetCost(graph[next.x][next.y]) << std::endl;
-
             double new_cost = cost_so_far[current] + distance(current, next) + GetCost(graph[next.x][next.y]); //g
-            std::cout << "new_cost:"<< new_cost << std::endl;
 
             if (cost_so_far.find(next) == cost_so_far.end()
                 || new_cost < cost_so_far[next]) {
                 cost_so_far[next] = new_cost;
                 
                 double priority = new_cost + heuristic(next, goal);//f = g + h
-                std::cout << "priority :"<< priority << std::endl;
                 next.SetPriority(priority);
                 openList.emplace(next);
 
@@ -132,12 +132,13 @@ void a_star_search(Grid graph,
             }
         }
     }
+    return false;
 }
 
-std::vector<Node> reconstruct_path(Node start,
-                                           Node goal,
-                                           std::unordered_map<Node,
-                                           Node> came_from) {
+std::vector<Node> reconstructPath(Node start,
+                                   Node goal,
+                                   std::unordered_map<Node,
+                                   Node> came_from) {
     std::vector<Node> path;
     Node current = goal;
     while (current != start) {
@@ -149,39 +150,47 @@ std::vector<Node> reconstruct_path(Node start,
     return path;
 }
 
-int main() {
+int main(int argc, char* argv[]) {
     
+    char* execName  = argv[1];
+    char* MapName   = argv[2];
+    int startX      = std::atoi(argv[3]);
+    int startY      = std::atoi(argv[4]);
+    int endX        = std::atoi(argv[5]);
+    int endY        = std::atoi(argv[6]);
+    
+    //auto map = std::make_unique<Map>(MapName);
     auto map = std::make_unique<Map>("AStarMap.txt");
+
     Grid grid;
-    
+    bool wasFound;
     grid = map->GetMap();
     
-    Node start{30, 10};
-    Node goal{120, 10};
-    
-    //Start position: (20, 20)
-    //End position:   (75, 89)
-    //Start position: (30, 10)
-    //End position:   (120, 10)
+//    Node start(startX, startY);
+//    Node goal(endX, endY);
+    Node start(0, 10);
+    Node goal(120, 120);
     std::unordered_map<Node, Node> came_from;
     std::unordered_map<Node, double> cost_so_far;
     
-    
     auto startClock = std::chrono::high_resolution_clock::now();
-    a_star_search(grid, start, goal, came_from, cost_so_far);
+    wasFound = a_star_search(grid, start, goal, came_from, cost_so_far);
     auto endClocl = std::chrono::high_resolution_clock::now();
+    double totalCost = cost_so_far[goal];
 
-    std::cout << "real time to calculate the route (ms): "<<
-    std::chrono::duration<double, std::milli>(endClocl-startClock).count() << std::endl;
+    std::vector<Node> path = reconstructPath(start, goal, came_from);
+    std::cout << "Start position:   ("<< start.x <<", "<<start.y<<")"<<std::endl;
+    std::cout << "End position:     ("<< goal.x <<", "<<goal.y<<")"<<std::endl;
 
-    
-    std::vector<Node> path = reconstruct_path(start, goal, came_from);
-    std::cout << "START : "<< start<<std::endl;
-    std::cout << "GOAL: : "<< goal <<std::endl;
-//    for (auto p : path) {
-//        std::cout << p <<std::endl;
-//    }
-    
-    map->PrintMap(path);
+    std::cout << "Path found:       "<< std::boolalpha<< wasFound <<std::endl;
+    std::cout << "Path cost:        "<< (wasFound?totalCost:0.0f) <<std::endl;
 
+
+    std::cout << "Total duration:   "<<
+    std::chrono::duration<double, std::milli>(endClocl-startClock).count() << "ms" << std::endl;
+
+    if (wasFound) {
+        map->PrintMap(path);
+    }
 }
+
