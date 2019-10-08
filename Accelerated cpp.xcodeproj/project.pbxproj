@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		2077E77B233FDB7000C0ACAA /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2077E77A233FDB7000C0ACAA /* main.cpp */; };
+		20972ADB234BD06000AEBD19 /* map.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 20972AD9234BD06000AEBD19 /* map.cpp */; };
+		20972B1E234D385400AEBD19 /* Node.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 20972B1D234D385400AEBD19 /* Node.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +27,10 @@
 /* Begin PBXFileReference section */
 		2077E777233FDB7000C0ACAA /* Accelerated cpp */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Accelerated cpp"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2077E77A233FDB7000C0ACAA /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		20972AD9234BD06000AEBD19 /* map.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = map.cpp; sourceTree = "<group>"; };
+		20972ADA234BD06000AEBD19 /* map.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = map.hpp; sourceTree = "<group>"; };
+		20972B1C234D35C700AEBD19 /* Node.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = Node.h; path = "/Users/miguel.lopes/Documents/GitHub/Accelerated cpp/Accelerated cpp/Node.h"; sourceTree = "<absolute>"; };
+		20972B1D234D385400AEBD19 /* Node.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Node.cpp; path = "/Users/miguel.lopes/Documents/GitHub/Accelerated cpp/Accelerated cpp/Node.cpp"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +63,11 @@
 		2077E779233FDB7000C0ACAA /* Accelerated cpp */ = {
 			isa = PBXGroup;
 			children = (
+				20972B1C234D35C700AEBD19 /* Node.h */,
+				20972B1D234D385400AEBD19 /* Node.cpp */,
 				2077E77A233FDB7000C0ACAA /* main.cpp */,
+				20972AD9234BD06000AEBD19 /* map.cpp */,
+				20972ADA234BD06000AEBD19 /* map.hpp */,
 			);
 			path = "Accelerated cpp";
 			sourceTree = "<group>";
@@ -72,6 +82,7 @@
 				2077E773233FDB7000C0ACAA /* Sources */,
 				2077E774233FDB7000C0ACAA /* Frameworks */,
 				2077E775233FDB7000C0ACAA /* CopyFiles */,
+				20972ADF234BD43300AEBD19 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -113,11 +124,23 @@
 		};
 /* End PBXProject section */
 
+/* Begin PBXResourcesBuildPhase section */
+		20972ADF234BD43300AEBD19 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		2077E773233FDB7000C0ACAA /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				20972B1E234D385400AEBD19 /* Node.cpp in Sources */,
+				20972ADB234BD06000AEBD19 /* map.cpp in Sources */,
 				2077E77B233FDB7000C0ACAA /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

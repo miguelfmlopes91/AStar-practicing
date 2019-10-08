@@ -2,6 +2,18 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Accelerated cpp.xcodeproj">
+      location = "group:/Users/miguel.lopes/Documents/GitHub/Accelerated cpp/Accelerated cpp/Node.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/miguel.lopes/Documents/GitHub/Accelerated cpp/Accelerated cpp/Node.h">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/miguel.lopes/Documents/GitHub/Accelerated cpp/Accelerated cpp/wip.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../../Downloads/7a2c2b08-1e56-4c00-8180-5b652f36cca8_AStar-Test-advanced/AStarMap.txt">
+   </FileRef>
+   <FileRef
+      location = "self:">
    </FileRef>
 </Workspace>
