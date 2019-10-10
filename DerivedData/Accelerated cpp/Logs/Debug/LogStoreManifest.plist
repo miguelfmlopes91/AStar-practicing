@@ -102,6 +102,70 @@
 			<key>uniqueIdentifier</key>
 			<string>028A04ED-1A1B-4B08-8C22-A2B6CA6AD600</string>
 		</dict>
+		<key>028A1647-93B8-4DCF-90FC-0D69F5118151</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>028A1647-93B8-4DCF-90FC-0D69F5118151.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592336277.61162806</real>
+			<key>timeStoppedRecording</key>
+			<real>592336280.492782</real>
+			<key>title</key>
+			<string>Debug Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>028A1647-93B8-4DCF-90FC-0D69F5118151</string>
+		</dict>
+		<key>0CCEFE3F-35DF-4746-B00B-EA369E731203</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0CCEFE3F-35DF-4746-B00B-EA369E731203.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592336133.02931798</real>
+			<key>timeStoppedRecording</key>
+			<real>592336136.01012802</real>
+			<key>title</key>
+			<string>Debug Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>0CCEFE3F-35DF-4746-B00B-EA369E731203</string>
+		</dict>
 		<key>0D025C38-4C44-4B01-849D-B212BE313EDE</key>
 		<dict>
 			<key>className</key>
@@ -133,6 +197,38 @@
 			<string>Debug Accelerated cpp</string>
 			<key>uniqueIdentifier</key>
 			<string>0D025C38-4C44-4B01-849D-B212BE313EDE</string>
+		</dict>
+		<key>177F72EA-DB3D-4A8B-9848-7B7568030F92</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>177F72EA-DB3D-4A8B-9848-7B7568030F92.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592336252.92863095</real>
+			<key>timeStoppedRecording</key>
+			<real>592336255.77789402</real>
+			<key>title</key>
+			<string>Debug Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>177F72EA-DB3D-4A8B-9848-7B7568030F92</string>
 		</dict>
 		<key>1A54CB5A-B4F2-45C6-AA4F-370BA6FEAC83</key>
 		<dict>
@@ -549,6 +645,38 @@
 			<string>Debug Accelerated cpp</string>
 			<key>uniqueIdentifier</key>
 			<string>3B7BD131-23A5-4EF6-8755-AB31D9434E8D</string>
+		</dict>
+		<key>3C72F690-D929-493B-A496-FC31E5B075C9</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3C72F690-D929-493B-A496-FC31E5B075C9.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592336030.13449395</real>
+			<key>timeStoppedRecording</key>
+			<real>592336046.35207605</real>
+			<key>title</key>
+			<string>Debug Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>3C72F690-D929-493B-A496-FC31E5B075C9</string>
 		</dict>
 		<key>3F4CC04D-9AF8-4552-8CF3-A8C2801A08D3</key>
 		<dict>
@@ -1286,6 +1414,38 @@
 			<key>uniqueIdentifier</key>
 			<string>7B2A9A86-81CD-4815-B861-B19A00BFD524</string>
 		</dict>
+		<key>7EDDC352-F84A-4FAD-93A0-640536FC07E7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7EDDC352-F84A-4FAD-93A0-640536FC07E7.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592336147.509547</real>
+			<key>timeStoppedRecording</key>
+			<real>592336148.86896896</real>
+			<key>title</key>
+			<string>Debug Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>7EDDC352-F84A-4FAD-93A0-640536FC07E7</string>
+		</dict>
 		<key>814622E9-66A8-404A-8D6F-CF70756311A2</key>
 		<dict>
 			<key>className</key>
@@ -1702,6 +1862,38 @@
 			<key>uniqueIdentifier</key>
 			<string>97E8A16B-D265-45DA-BFE4-C84ED369EB9E</string>
 		</dict>
+		<key>98F6BDB0-14EC-4561-8E18-776F0AAB940A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>98F6BDB0-14EC-4561-8E18-776F0AAB940A.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592336064.78751397</real>
+			<key>timeStoppedRecording</key>
+			<real>592336099.86527801</real>
+			<key>title</key>
+			<string>Debug Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>98F6BDB0-14EC-4561-8E18-776F0AAB940A</string>
+		</dict>
 		<key>99945074-CCB0-4D71-88F0-CFB3873FFF4A</key>
 		<dict>
 			<key>className</key>
@@ -2021,6 +2213,38 @@
 			<string>Debug Accelerated cpp</string>
 			<key>uniqueIdentifier</key>
 			<string>A8DAC465-EC8A-410E-9E4D-D85043150444</string>
+		</dict>
+		<key>AA468788-BB81-476C-8AB2-9E6724CB45B4</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>AA468788-BB81-476C-8AB2-9E6724CB45B4.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592336207.72134197</real>
+			<key>timeStoppedRecording</key>
+			<real>592336210.67122602</real>
+			<key>title</key>
+			<string>Debug Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>AA468788-BB81-476C-8AB2-9E6724CB45B4</string>
 		</dict>
 		<key>AA6E62CF-C7CC-45CC-8587-7E919BF6333B</key>
 		<dict>
@@ -2502,6 +2726,38 @@
 			<key>uniqueIdentifier</key>
 			<string>BCD290BA-46BB-486B-8B8F-7B5ABCCD797E</string>
 		</dict>
+		<key>BD235F4C-2EB7-4FEB-9E8E-42DDE11C6C6C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>BD235F4C-2EB7-4FEB-9E8E-42DDE11C6C6C.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592335503.08002305</real>
+			<key>timeStoppedRecording</key>
+			<real>592335505.47455204</real>
+			<key>title</key>
+			<string>Debug Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>BD235F4C-2EB7-4FEB-9E8E-42DDE11C6C6C</string>
+		</dict>
 		<key>BD8582C2-9C3C-4698-9546-E730EE0255ED</key>
 		<dict>
 			<key>className</key>
@@ -2757,6 +3013,38 @@
 			<string>Debug Accelerated cpp</string>
 			<key>uniqueIdentifier</key>
 			<string>CCCE45C0-DEDF-4EAD-A4E4-BCB06EBED3B2</string>
+		</dict>
+		<key>D1198320-64C7-4F06-B967-473E132C3BB7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D1198320-64C7-4F06-B967-473E132C3BB7.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Accelerated cpp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Accelerated cpp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Accelerated cpp</string>
+			<key>timeStartedRecording</key>
+			<real>592335514.55846202</real>
+			<key>timeStoppedRecording</key>
+			<real>592335522.59729099</real>
+			<key>title</key>
+			<string>Debug Accelerated cpp</string>
+			<key>uniqueIdentifier</key>
+			<string>D1198320-64C7-4F06-B967-473E132C3BB7</string>
 		</dict>
 		<key>D1499F2E-70A0-4BC5-B4F0-A2866B01D386</key>
 		<dict>

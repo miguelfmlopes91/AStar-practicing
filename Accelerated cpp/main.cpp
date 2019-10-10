@@ -1,11 +1,3 @@
-/*
- Sample code from https://www.redblobgames.com/pathfinding/a-star/
- Copyright 2014 Red Blob Games <redblobgames@gmail.com>
- 
- Feel free to use this code in your own projects, including commercial projects
- License: Apache v2.0 <http://www.apache.org/licenses/LICENSE-2.0.html>
- */
-
 #include <iostream>
 #include <iomanip>
 #include <unordered_map>
@@ -13,7 +5,6 @@
 #include <vector>
 #include <utility>
 #include <queue>
-#include <tuple>
 #include <algorithm>
 #include <cstdlib>
 #include <math.h>
@@ -24,15 +15,13 @@
 
 constexpr int ORTHOGONAL_COST = 14;
 constexpr int DIAGONAL_COST = 10;
-constexpr double epsilon = 0.001f;
+//constexpr double epsilon = 0.001f;
 
 typedef std::vector<std::vector<char>> Grid;
 typedef std::pair<Node, double> pair;
 
 inline double Tolerance(double val){
-    if( val < epsilon ){
-    }
-    return 0;
+    return std::round(val * 1000) / 1000;
 }
 
 namespace std {
@@ -62,19 +51,18 @@ inline std::vector<Node> GetNeighbours(Node id, const Grid& grid ){
     return results;
 }
 
-inline double distance( Node source, Node target)
-{
+inline double distance( Node source, Node target){
     double dx = std::abs(source.x - target.x);
     double dy = std::abs(source.y - target.y);
-    
-    return ORTHOGONAL_COST * (dx + dy) + (DIAGONAL_COST - 2 * ORTHOGONAL_COST) * std::min(dx, dy);
+
+    return Tolerance(ORTHOGONAL_COST * (dx + dy) + (DIAGONAL_COST - 2 * ORTHOGONAL_COST) * std::min(dx, dy));
 }
 
 inline double heuristic(Node node, Node goal) {
     //return std::abs(a.x - b.x) + std::abs(a.y - b.y);
     double dx = std::abs(node.x - goal.x);
     double dy = std::abs(node.y - goal.y);
-    return DIAGONAL_COST * (dx + dy) + (ORTHOGONAL_COST - 2 * DIAGONAL_COST) * std::min(dx, dy);
+    return Tolerance(DIAGONAL_COST * (dx + dy) + (ORTHOGONAL_COST - 2 * DIAGONAL_COST) * std::min(dx, dy));
 }
 
 inline double GetCost(char val){
@@ -99,15 +87,15 @@ inline double GetCost(char val){
 bool a_star_search(Grid graph,
                    Node start,
                    Node goal,
-                   std::unordered_map<Node, Node>& came_from,
+                   std::unordered_map<Node, Node>& closedList,
                    std::unordered_map<Node,
-                   double>& cost_so_far){
+                   double>& costList){
     
     std::priority_queue<Node> openList;
     openList.emplace(start);
     
-    came_from[start] = start;
-    cost_so_far[start] = 0;//could change this to actualy cost.
+    closedList[start] = start;
+    costList[start] = 0;//could change this to actualy cost.
     
     while (!openList.empty()) {
         Node current = openList.top();
@@ -118,17 +106,17 @@ bool a_star_search(Grid graph,
         }
         auto neighbours = GetNeighbours(current, graph);
         for (auto next : neighbours) {
-            double new_cost = cost_so_far[current] + distance(current, next) + GetCost(graph[next.x][next.y]); //g
+            double new_cost = costList[current] + distance(current, next) + GetCost(graph[next.x][next.y]); //g
 
-            if (cost_so_far.find(next) == cost_so_far.end()
-                || new_cost < cost_so_far[next]) {
-                cost_so_far[next] = new_cost;
+            if (costList.find(next) == costList.end()
+                || new_cost < costList[next]) {
+                costList[next] = new_cost;
                 
                 double priority = new_cost + heuristic(next, goal);//f = g + h
                 next.SetPriority(priority);
                 openList.emplace(next);
 
-                came_from[next] = current;
+                closedList[next] = current;
             }
         }
     }
@@ -138,12 +126,12 @@ bool a_star_search(Grid graph,
 std::vector<Node> reconstructPath(Node start,
                                    Node goal,
                                    std::unordered_map<Node,
-                                   Node> came_from) {
+                                   Node> closedList) {
     std::vector<Node> path;
     Node current = goal;
     while (current != start) {
         path.push_back(current);
-        current = came_from[current];
+        current = closedList[current];
     }
     path.push_back(start); // optional
     std::reverse(path.begin(), path.end());
@@ -152,33 +140,30 @@ std::vector<Node> reconstructPath(Node start,
 
 int main(int argc, char* argv[]) {
     
-    char* execName  = argv[1];
-    char* MapName   = argv[2];
-    int startX      = std::atoi(argv[3]);
-    int startY      = std::atoi(argv[4]);
-    int endX        = std::atoi(argv[5]);
-    int endY        = std::atoi(argv[6]);
+    char* MapName   = argv[1];
+    int startX      = std::atoi(argv[2]);
+    int startY      = std::atoi(argv[3]);
+    int endX        = std::atoi(argv[4]);
+    int endY        = std::atoi(argv[5]);
     
-    //auto map = std::make_unique<Map>(MapName);
-    auto map = std::make_unique<Map>("AStarMap.txt");
+    auto map = std::make_unique<Map>(MapName);
 
     Grid grid;
     bool wasFound;
     grid = map->GetMap();
     
-//    Node start(startX, startY);
-//    Node goal(endX, endY);
-    Node start(0, 10);
-    Node goal(120, 120);
-    std::unordered_map<Node, Node> came_from;
-    std::unordered_map<Node, double> cost_so_far;
+    Node start(startX, startY);
+    Node goal(endX, endY);
+
+    std::unordered_map<Node, Node> closedList;
+    std::unordered_map<Node, double> costList;
     
     auto startClock = std::chrono::high_resolution_clock::now();
-    wasFound = a_star_search(grid, start, goal, came_from, cost_so_far);
+    wasFound = a_star_search(grid, start, goal, closedList, costList);
     auto endClocl = std::chrono::high_resolution_clock::now();
-    double totalCost = cost_so_far[goal];
+    double totalCost = costList[goal];
 
-    std::vector<Node> path = reconstructPath(start, goal, came_from);
+    std::vector<Node> path = reconstructPath(start, goal, closedList);
     std::cout << "Start position:   ("<< start.x <<", "<<start.y<<")"<<std::endl;
     std::cout << "End position:     ("<< goal.x <<", "<<goal.y<<")"<<std::endl;
 
