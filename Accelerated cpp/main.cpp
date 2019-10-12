@@ -11,6 +11,7 @@
 
 
 #include "map.hpp"
+#include "fibonacci.h"
 
 
 constexpr int ORTHOGONAL_COST = 14;
@@ -59,9 +60,22 @@ inline double distance( Node source, Node target){
 }
 
 inline double heuristic(Node node, Node goal) {
-    //return std::abs(a.x - b.x) + std::abs(a.y - b.y);
     double dx = std::abs(node.x - goal.x);
     double dy = std::abs(node.y - goal.y);
+    //return dx + dy; Manhattan - perfect for 4-way
+    //return UNIFORM_COST * std::max(dx,y); Diagonal distance (8 way with uniform cost)
+    
+    //Diagonal Distance, with diagon cost different from ortogonal
+    /*
+     ORTHOGONAL_COST = 1
+     DIAGONAL_COST = ORTHOGONAL_COST * 1.414
+     d_max = std::max(dx, dy);
+     d_min = std::min(dx, dy);
+     return DIAGONAL_COST * d_min + ORTHOGONAL_COST *(d_max−d_min)
+     */
+    
+    // h(n)2 =(n.x−goal.x)2​​ +(n.y−goal.y)2;    Euclidean distance
+    
     return Tolerance(DIAGONAL_COST * (dx + dy) + (ORTHOGONAL_COST - 2 * DIAGONAL_COST) * std::min(dx, dy));
 }
 
@@ -92,12 +106,16 @@ bool a_star_search(Grid graph,
                    double>& costList){
     
     std::priority_queue<Node> openList;
+    //FibonacciHeap<Node> openList;
     openList.emplace(start);
+    //openList.insert(start);
+
     
     closedList[start] = start;
     costList[start] = 0;//could change this to actualy cost.
     
     while (!openList.empty()) {
+        //Node current = openList.removeMinimum();
         Node current = openList.top();
         openList.pop();
         
@@ -115,7 +133,9 @@ bool a_star_search(Grid graph,
                 double priority = new_cost + heuristic(next, goal);//f = g + h
                 next.SetPriority(priority);
                 openList.emplace(next);
+                //openList.insert(next);
 
+                
                 closedList[next] = current;
             }
         }
@@ -140,20 +160,20 @@ std::vector<Node> reconstructPath(Node start,
 
 int main(int argc, char* argv[]) {
     
-    char* MapName   = argv[1];
-    int startX      = std::atoi(argv[2]);
-    int startY      = std::atoi(argv[3]);
-    int endX        = std::atoi(argv[4]);
-    int endY        = std::atoi(argv[5]);
+//    char* MapName   = argv[1];
+//    int startX      = std::atoi(argv[2]);
+//    int startY      = std::atoi(argv[3]);
+//    int endX        = std::atoi(argv[4]);
+//    int endY        = std::atoi(argv[5]);
     
-    auto map = std::make_unique<Map>(MapName);
+    auto map = std::make_unique<Map>("AStarMap.txt");
 
     Grid grid;
     bool wasFound;
     grid = map->GetMap();
     
-    Node start(startX, startY);
-    Node goal(endX, endY);
+    Node start(30, 10);
+    Node goal(120, 10);
 
     std::unordered_map<Node, Node> closedList;
     std::unordered_map<Node, double> costList;

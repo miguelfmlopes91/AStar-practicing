@@ -33,6 +33,9 @@ private:
     friend bool operator < (Node a, Node b) {
         return a._priority > b._priority;
     }
+    friend bool operator > (Node a, Node b) {
+        return a._priority > b._priority;
+    }
     
     friend std::basic_iostream<char>::basic_ostream& operator<<(std::basic_iostream<char>::basic_ostream& out, const Node& loc) {
         out << '(' << loc.x << ',' << loc.y << ')';
