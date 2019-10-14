@@ -36,7 +36,7 @@ namespace std {
     };
 }
 
-std::array<Node, 8> DIRS {
+static std::array<Node, 8> DIRS {
     Node(1, 0), Node(1, -1), Node(0, -1), Node(-1, -1),
     Node(-1, 0), Node(-1, 1), Node(0, 1), Node(1, 1),
 };
@@ -165,7 +165,6 @@ void PrecomputedHeuristics(std::vector<std::vector<double>>& vec, const Grid& gr
     for (int i = 0; i < size; i++){
         for (int j = 0; j < size; j++){
             double val = heuristic(Node(i,j), goal);
-            printf("%f\n", val);
             vec[i][j] = val;
         }
     }
